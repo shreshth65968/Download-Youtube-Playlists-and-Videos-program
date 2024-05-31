@@ -84,6 +84,8 @@ stream.download(output_path="/path/to/save")
 
 ![downloaded](https://github.com/shreshth65968/Download-Youtube-Playlists-and-Videos-program/assets/96594936/4ba299b8-ce42-4b02-8939-8577cd33ae47)
 
+- same procedure to be followed to download the youtube playlist videos
+
 - it will display the success dialog box and the video will get downloaded in the same directory you are running you program
 
 ![downloaded in the directory](https://github.com/shreshth65968/Download-Youtube-Playlists-and-Videos-program/assets/96594936/780bab5f-5908-496a-8a84-8e281aeb4340)
