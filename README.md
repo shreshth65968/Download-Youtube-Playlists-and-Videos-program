@@ -71,7 +71,8 @@ stream.download(output_path="/path/to/save")
 
 - then go to the video you want to download, copy its link
 
-![youtube screen](https://github.com/shreshth65968/Download-Youtube-Playlists-and-Videos-program/assets/96594936/82466124-928e-41c5-8f68-34d420a7cfd8)
+![Screenshot (3)](https://github.com/shreshth65968/Download-Youtube-Playlists-and-Videos-program/assets/96594936/5472eec3-5f45-422d-84fd-28ab292e6e89)
+
 
 - then paste the link and type the resolution of your choice like 360 in my case
 
