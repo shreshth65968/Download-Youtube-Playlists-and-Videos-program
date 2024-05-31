@@ -21,7 +21,7 @@ To use FFmpeg, simply invoke it from the command line followed by the desired op
 ffmpeg -i input.mp4 output.avi
 ```
 
-# Introduction to Pytube
+## Introduction to Pytube
 
 Pytube is a lightweight, simple-to-use Python library aimed at downloading YouTube videos. It provides an intuitive interface to interact with YouTube's video streams, making it easy to fetch metadata, download videos, and manage various aspects of YouTube content.
 
