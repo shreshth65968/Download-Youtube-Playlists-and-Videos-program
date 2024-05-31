@@ -66,9 +66,9 @@ stream = yt.streams.get_highest_resolution()
 stream.download(output_path="/path/to/save")
 ```
 
--to get this repo working on your machine you need to add FFmpeg on the env variable, after that install all the dependencies in a python environment like Tkinter and Pytube
--then run the application by "python youtube.py"
-- this will run our GUI application
+- to get this repo working on your machine you need to add FFmpeg on the env variable, after that install all the dependencies in a python environment like Tkinter and Pytube
+- then run the application by "python youtube.py"
+-  this will run our GUI application
 ![image](https://github.com/shreshth65968/Download-Youtube-Playlists-and-Videos-program/assets/96594936/c2ae29f6-d8ed-4296-aaf0-41ebfd84cbbf) 
 
 - then go to the video you want to download, copy its link
