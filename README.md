@@ -1,6 +1,6 @@
 
-A python GUI application built on top of Tkinter, FFmpeg
-( Only for Educational purpose, don't use the code to download videos without permission from the owner, I don't take any responsibility of Your actions)
+A python GUI application built on top of Tkinter, FFmpeg <br>
+_(Only for Educational purpose, don't use the code to download videos without permission from the owner, I don't take any responsibility of Your actions)_
 ## Introduction to FFmpeg
 
 FFmpeg is a powerful multimedia framework that allows users to decode, encode, transcode, mux, demux, stream, filter, and play almost any type of audio and video files. It's a command-line tool with a vast array of capabilities, making it a popular choice for multimedia processing tasks.
