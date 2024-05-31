@@ -17,6 +17,7 @@ To use FFmpeg, simply invoke it from the command line followed by the desired op
 
 ```bash
 ffmpeg -i input.mp4 output.avi
+```
 
 # Introduction to Pytube
 
@@ -61,6 +62,7 @@ stream = yt.streams.get_highest_resolution()
 
 # Download the video
 stream.download(output_path="/path/to/save")
+```
 
 -to get this repo working on your machine you need to add FFmpeg on the env variable, after that install all the dependencies in a python environment like Tkinter and Pytube
 -then run the application by "python youtube.py"
@@ -83,5 +85,4 @@ stream.download(output_path="/path/to/save")
 
 ![downloaded in the directory](https://github.com/shreshth65968/Download-Youtube-Playlists-and-Videos-program/assets/96594936/780bab5f-5908-496a-8a84-8e281aeb4340)
 
-- 
 
